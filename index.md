@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: .NET MAUI Blog
 ---
 
